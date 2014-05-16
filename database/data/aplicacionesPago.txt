@@ -1,0 +1,4 @@
+coco,gamedonia,20/12/2009,1,3,5,muy bueno
+face,gamedonia,20/05/2009,1,2,5,muy bueno
+pepe,gamedonia,12/04/2006,0,1,5,normal
+pepee,game,20/10/1999,0,2,5,bueno
